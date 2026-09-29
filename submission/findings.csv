@@ -1,8 +1,8 @@
 round,slice,frame,object_ref,cell,what,why,severity,owner,rule_id,evidence,action,rules_version,note
-r2_qa,B3-mid,adasind_128310.jpg,1,L_only,MISSING,,,,R01,,,,Thiếu box Bus
-r2_qa,B3-mid,adasind_140160.jpg,2,L_only,MISSING,,,,R03,,,,Thiếu box Bike (Người lái)
+r2_qa,B1-edge,adasind_001320.jpg,1,L_only,MISSING,,,,R01,,,,Thiếu box Bus
+r2_qa,B1-edge,adasind_001320.jpg,2,L_only,MISSING,,,,R03,,,,Thiếu box Bike (Người lái)
 r1_craft,B3-mid,adasind_128310.jpg,L3+R3,na,WRONG_CLASS,,,,,,,,
-r2_qa,B3-mid,adasind_230910.jpg,3,L_only,MISSING,,,,R05,,,,Lỗi thiếu attribute occluded
+r2_qa,B1-edge,adasind_001320.jpg,3,L_only,MISSING,,,,R05,,,,Lỗi thiếu attribute occluded
 r1_craft,B3-mid,adasind_128310.jpg,R4,na,MISSING,,,,,,,,
 r1_craft,B3-mid,adasind_140160.jpg,L2+R3,na,WRONG_CLASS,,,,,,,,
 r1_craft,B3-mid,adasind_230910.jpg,L1+R5,na,WRONG_CLASS,,,,,,,,

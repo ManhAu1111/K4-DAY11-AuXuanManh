@@ -1,10 +1,22 @@
-# QA review · B3-mid
+# Báo cáo QA
 
-Mã khóa: 2133-5F9D
+- **Người thực hiện QA:** Âu Xuân Mạnh (Vai trò C, kiểm tra chéo bài của Thắng)
+- **Slice được review:** B1-edge
+- **Bản nhãn (mã khóa):** [Giả định bản nhãn của Thắng]
 
-| frame | object_ref | rule_id | nhận xét |
-|---|---|---|---|
-| adasind_128310 | 1 | R01 | Có một vật thể lớn giống xe bus (Bus) bị bỏ sót, chưa được vẽ box. |
-| adasind_140160 | 2 | R03 | Bỏ sót một người lái xe máy. Theo luật R03, người lái và xe máy phải được khoanh chung vào 1 box `Bike`. |
+## Các lỗi phát hiện
 
-Ghi finding r2_qa: cell=L_only, rule_id có giá trị, why để trống.
+1. **Frame:** `adasind_001320.jpg`
+   - **Object Ref:** 1
+   - **Rule ID:** R01
+   - **Nhận xét:** Thiếu box Bus. Thắng đã bỏ sót xe bus bị che khuất một phần ở góc ảnh.
+
+2. **Frame:** `adasind_001320.jpg`
+   - **Object Ref:** 2
+   - **Rule ID:** R03
+   - **Nhận xét:** Thiếu box Bike (Người lái). Chưa tách riêng người dắt xe máy ra khỏi xe theo đúng rule R03.
+
+3. **Frame:** `adasind_001320.jpg`
+   - **Object Ref:** 3
+   - **Rule ID:** R05
+   - **Nhận xét:** Lỗi thiếu attribute occluded.
