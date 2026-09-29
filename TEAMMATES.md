@@ -9,6 +9,6 @@
 
 | Họ và tên | MSSV | Tên dùng trong mode | Slice được giao | QA bài của ai | Phần việc và bằng chứng | Link repo cá nhân | Commit nộp |
 |---|---|---|---|---|---|---|---|
-| Âu Xuân Mạnh | 2202602121 | manh | B3-mid | thang (B1-edge) | Vẽ nhãn B3-mid, QA cho Thắng (B1-edge), chẩn đoán | [K4-DAY11-AuXuanManh](https://github.com/ManhAu1111/K4-DAY11-AuXuanManh) | [f286aec](https://github.com/ManhAu1111/K4-DAY11-AuXuanManh/commit/f286aec) |
-| Chu Đình Thắng | 2A202602238 | thang | B1-edge | minh (B2-center) | Vẽ nhãn B1-edge, QA cho Minh | (Không có) | (Không có) |
-| Vũ Tuấn Minh | 2A202602240 | minh | B2-center | manh (B3-mid) | Vẽ nhãn B2-center, QA cho Mạnh | (Không có) | (Không có) |
+| Âu Xuân Mạnh | 2A202602121 | AuXuanManh | B3-mid | ChuDinhThang (B3-dense) | Vẽ nhãn B3-mid, QA cho Thắng (B3-dense), chẩn đoán | [K4-DAY11-AuXuanManh-2A202602121](https://github.com/ManhAu1111/K4-DAY11-AuXuanManh-2A202602121) | Sẽ cập nhật sau commit |
+| Chu Đình Thắng | 2A202602238 | ChuDinhThang | B3-dense | VuTuanMinh (B2-dense) | Vẽ nhãn B3-dense, QA cho Minh | [K4-DAY11-G03-T017-chudinhthang-0228](https://github.com/thangchudinh1/K4-DAY11-G03-T017-chudinhthang-0228) | [153b81c](https://github.com/thangchudinh1/K4-DAY11-G03-T017-chudinhthang-0228/commit/153b81c) |
+| Vũ Tuấn Minh | 2A202602240 | VuTuanMinh | B2-dense | AuXuanManh (B3-mid) | Vẽ nhãn B2-dense, QA cho Mạnh | [K4-DAY11-VuTuanMinh-2A202602240](https://github.com/tuanminh1704/K4-DAY11-VuTuanMinh-2A202602240) | [cf4acba](https://github.com/tuanminh1704/K4-DAY11-VuTuanMinh-2A202602240/commit/cf4acba) |
