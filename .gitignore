@@ -4,3 +4,15 @@ build/
 .[e]nv
 __pycache__/
 *.pyc
+
+# Ignored scripts and generated zips by AI Assistant
+create_cvat_tasks.py
+create_task3.py
+upload_annotations.py
+reannotate_all.py
+parking_accurate.xml
+parking_accurate.zip
+c0_prefill.zip
+b3_mid_prefill.zip
+dummy_parking.xml
+dummy_parking.zip

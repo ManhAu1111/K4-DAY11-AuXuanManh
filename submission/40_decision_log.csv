@@ -1,1 +1,5 @@
 id,date,question,decision,rationale,status
+1,2026-09-29,Có vẽ xe bus bị cắt lẹm không?,Bỏ qua đưa vào unreadable,Hình bóp méo quá khó đoán,escalated
+2,2026-09-29,Vẽ người dắt xe máy chung hay riêng?,Vẽ riêng hai box,Luật R03 quy định tách biệt,resolved
+3,2026-09-29,Có vẽ vạch qua đường không?,Không vẽ,Luật không cho phép vẽ vạch ngoài,resolved
+4,2026-09-29,Lỗi model đoán sai nhiều ở rìa?,Giữ nguyên nhãn người,Model bị ảo giác miền dữ liệu,resolved
